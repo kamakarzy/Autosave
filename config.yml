@@ -1,0 +1,13 @@
+#Default config for EasySave
+#Saving 1 message
+Saving_1: .&2 Now saving Please Prepare For &4 Lagg
+#Saving 2 message
+Saving_2: .&2 Nearly Done
+#Saving 3 message
+Saving_3: .&2 Players Fully Saved
+#Saving 4 message
+Saving_4: .&2 Worlds Saving May take More Time If More Worlds
+#saved message
+Saved: .&2 Now saved please return to playing
+#Time in Munutes
+Time: 30

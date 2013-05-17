@@ -1,0 +1,10 @@
+name: EasySave
+main: com.gmail.nomad856.kamakarzy.Main
+version: 1.0
+author: nomad856/kamakarzy
+commands:
+  forcesave:
+    description: forces the save
+    usage: /<command>
+    permission: easySave.force
+    default: op
